@@ -1,0 +1,16 @@
+body{
+	background-color: lightblue;
+	margin: 15px;
+}
+h3{
+	color: yellow;
+	font-family: verdana;
+	font-size: 12pt;
+	line-height: 3pc;
+	text-align: center;
+	padding: 5px;
+	border-style:ridge ;
+	border-width: 8px;
+	border-color: red;
+	cursor:all-scroll ;
+}
